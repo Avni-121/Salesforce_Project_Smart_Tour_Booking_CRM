@@ -1,3 +1,7 @@
+Here is the link if you want to know more->
+
+https://docs.google.com/document/d/1DNlSjloYwBwPoV1mXj-vUgtxRbmwBPnt_C_t2ww18uI/edit?usp=sharing
+
 # 🌍 Smart Tour Booking CRM  
 
 A Salesforce-powered **Customer Relationship Management (CRM) system** designed for the **Tourism & Travel sector**.  
